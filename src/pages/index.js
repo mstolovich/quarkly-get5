@@ -28,12 +28,12 @@ export default (() => {
 				width="25%"
 				display="flex"
 				nout-margin="0 0 0 40px"
-				sm-margin="0 0 0 05px"
+				sm-margin="0 0 0 px"
 				lg-width="10%"
 				lg-margin="0 0 0 0px"
 				md-width="25%"
 			>
-				<Components.LogoHeader />
+				<Components.LogoHeader sm-margin="0px 0px 0px 0px" />
 			</Box>
 			<Box
 				width="70%"
